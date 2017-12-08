@@ -25,7 +25,7 @@ SECRET_KEY = 'ewv6kh4mqsm5m7!@b#&szbxvabq_zqk$eypd5ox5acaj8cr!2m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '176.122.187.71']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.shangche.tk']
 
 
 # Application definition
